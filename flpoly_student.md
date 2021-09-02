@@ -1,27 +1,24 @@
-## First Name Last Name
+Isaiah Tadrous
 
-### Term Year 
+
 
 DSBA student at [Florida Polytechnic University](https://www.floridapoly.edu) currently enrolled in: 
 
-- Course 1
 
-- Course 2
+-Comp info tech
 
-- Course 3
+-Into data science
 
-- Course 4
+-pre calculus
 
 **Hobbies:**
 
 I am _passionate about_: 
 
-- Thing 1
+- robotics
 
-- Thing 2
-
-- Thing 3 as shown in this website <https://www.floridapoly.edu>
+- food
 
 ***
 
-> Last modified: YYYY/MM/DD
+> Last modified: 2021/09/02
